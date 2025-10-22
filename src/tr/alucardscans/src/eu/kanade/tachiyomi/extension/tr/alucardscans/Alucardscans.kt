@@ -6,7 +6,7 @@ import java.util.Locale
 
 class Alucardscans : MangaThemesia(
     "Alucard Scans",
-    "https://alucardscans.com",
+    "https://alucardscans.com/",
     "tr",
     dateFormat = SimpleDateFormat("MMMM dd, yyyy", Locale("tr")),
 )
