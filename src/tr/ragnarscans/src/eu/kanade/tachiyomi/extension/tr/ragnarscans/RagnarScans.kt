@@ -5,7 +5,7 @@ import eu.kanade.tachiyomi.multisrc.initmanga.InitManga
 class RagnarScans :
     InitManga(
         "Ragnar Scans",
-        "https://ragnarscans.com",
+        "https://ragnarscans.net",
         "tr",
         mangaUrlDirectory = "manga",
         popularUrlSlug = "en-cok-takip-edilenler",
