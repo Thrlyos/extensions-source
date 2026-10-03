@@ -18,6 +18,6 @@ keiyoushi {
 
     source {
         lang = "tr"
-        baseUrl = "https://manga-tr.com"
+        baseUrl = "https://manga-tr.com/"
     }
 }
