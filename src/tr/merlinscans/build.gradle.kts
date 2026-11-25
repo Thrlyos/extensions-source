@@ -13,7 +13,7 @@ keiyoushi {
 
     source {
         lang = "tr"
-        baseUrl = "https://merlintoon.net"
+        baseUrl = "https://merlintoon.net/"
         versionId = 2
     }
 }
